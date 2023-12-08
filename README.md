@@ -1,9 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauto1127)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauto1127)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tauto1127)](https://github.com/ryo-ma/github-profile-trophy)
-![Counter](https://profile-counter.glitch.me/tauto1127/count.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkariKokuba)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkariKokuba)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkariKokuba)](https://github.com/ryo-ma/github-profile-trophy)
+![Counter](https://profile-counter.glitch.me/AkariKokuba/count.svg)
 <!--
-**tauto1127/tauto1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AkariKokuba/AkariKokuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
